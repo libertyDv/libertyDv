@@ -1,7 +1,7 @@
 # ¡Hola! Soy Liberty
 ## Bienvenido a mi perfil 🌱:
 
-- 🎓 Estoy terminando mis estudios de **DAM** en Escuela Estecg (Linares, Jaén).
+- 🎓 Recientemente he finalizado mis estudios del grado **DAM** en Escuela Estech (Linares, Jaén).
 - 💻 Me apasiona todo el mundo de la programación, pero he descubierto que mi verdadera pasión se centra en **frontend**. ¡Aunque eso no quita mi curiosidad por todo lo demás!
 - 📚 Ahora me encuentro en un continuo aprendizaje donde busco **mejorar** mis habilidades de programación.
 - :mailbox: ¿Qué tal si hablamos? ¡Aquí te dejo mi contacto!
