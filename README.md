@@ -34,6 +34,7 @@
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-lightpink?logo=nodedotjs&logoColor=%23805467)
 ![MySQL](https://img.shields.io/badge/MySQL-lightpink?logo=mysql&logoColor=%23805467)
+![Firebase](https://img.shields.io/badge/firebase-lightpink?logo=firebase&logoColor=%23805467)
 
 ### Ya que has llegado hasta aquí, ¿por qué no le echas un vistazo a mi portfolio? ☕ 🍵
 
