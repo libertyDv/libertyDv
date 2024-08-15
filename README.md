@@ -13,8 +13,10 @@
 
 ![HTML5](https://img.shields.io/badge/html-lightpink?logo=html5&logoColor=%23805467)
 ![CSS](https://img.shields.io/badge/css-lightpink?logo=CSS3&logoColor=%23805467)
+![React](https://img.shields.io/badge/react-lightpink?logo=react&logoColor=%23805467)
 ![JavaScript](https://img.shields.io/badge/JavaScript-lightpink?logo=javascript&logoColor=%23805467)
 ![TypeScript](https://img.shields.io/badge/TypeScript-lightpink?logo=typescript&logoColor=%23805467)
+
 
 ![Java](https://img.shields.io/badge/Java-lightpink?logo=Java&logoColor=%23805467)
 ![Kotlin](https://img.shields.io/badge/kotlin-lightpink?logo=kotlin&logoColor=%23805467)
