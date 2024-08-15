@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-lightpink?logo=git&logoColor=%23805467)
 ![GitHub](https://img.shields.io/badge/GitHub-lightpink?logo=github&logoColor=%23805467)
 
-![React](https://img.shields.io/badge/react-lightpink?logo=react&logoColor=%23805467)
+![React](https://img.shields.io/badge/React-lightpink?logo=react&logoColor=%23805467)
 ![Angular](https://img.shields.io/badge/Angular-lightpink?logo=angular&logoColor=%23805467)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-lightpink?logo=bootstrap&logoColor=%23805467)
 ![Figma](https://img.shields.io/badge/Figma-lightpink?logo=figma&logoColor=%23805467)
